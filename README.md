@@ -5,4 +5,5 @@
 Java Classes to description of a UFC fight simulation system. Training with Object-Oriented design patterns.  
 
 
-![DiagramaUFC](https://user-images.githubusercontent.com/59054486/196007714-118be984-5a60-4545-a110-1723c761d295.png)
+
+![DiagramaUFC](https://user-images.githubusercontent.com/59054486/196007804-8897f870-2965-4197-af13-795529109a66.png)
